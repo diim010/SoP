@@ -1,0 +1,38 @@
+body {
+    background-color: #ebe5e5d3;
+}
+.logo span {
+    padding: 15px;
+    box-shadow: 10px 10px 29px #3e3d3d, inset 5px 5px 15px rgba(86, 83, 83, 0.377);
+}
+.logo:hover {
+    text-decoration: none;
+}
+footer {
+    margin-top: 50px;
+    min-height: 100px;
+}
+.main_card article {
+    height: 250px;
+    overflow: hidden;
+}
+
+.main_card img {
+    min-height: 100%;
+    width: auto;    
+}
+.main_card_xl {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    overflow: hidden;
+    height: 400px;
+    touch-action: 
+}
+.main_card_xl img {
+    min-width: 100%;
+}
+.mirror_section .col-sm-6 {
+    margin-top: 50px;
+    padding-right: 0;
+    padding-left: 0;
+}
